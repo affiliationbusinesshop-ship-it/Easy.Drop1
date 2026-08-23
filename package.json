@@ -1,0 +1,9 @@
+{
+  "name": "easydropshop-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "easy.drop by EasyDrop — landing pages FR/US/UK (static site)",
+  "scripts": {
+    "start": "npx --yes serve -s . -l ${PORT:-3000}"
+  }
+}
